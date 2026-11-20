@@ -1,0 +1,73 @@
+{
+  "portraits": {
+    "columns": {
+      "id": "string",
+      "label": "string",
+      "aliases": "array",
+      "facts": "array"
+    },
+    "links": {}
+  },
+  "rubric": {
+    "columns": {
+      "id": "string",
+      "item": "string",
+      "criteria": "string"
+    },
+    "links": {}
+  },
+  "blocks": {
+    "columns": {
+      "id": "string",
+      "tender": "string",
+      "bid": "string",
+      "edition": "string",
+      "anchor": "string",
+      "kind": "string",
+      "text": "string",
+      "old": "string?"
+    },
+    "links": {
+      "bid": "portraits",
+      "old": "blocks"
+    }
+  },
+  "reviews": {
+    "columns": {
+      "id": "string",
+      "raw": "string",
+      "category": "string",
+      "candidate": "string",
+      "note": "string"
+    },
+    "links": {
+      "raw": "blocks"
+    }
+  },
+  "dispatch": {
+    "columns": {
+      "id": "string",
+      "bid": "string",
+      "at": "string",
+      "links": "object",
+      "material": "object"
+    },
+    "links": {
+      "bid": "portraits"
+    }
+  },
+  "scores": {
+    "columns": {
+      "id": "string",
+      "packet": "string",
+      "criterion": "string",
+      "anchor": "string",
+      "points": "number",
+      "note": "string"
+    },
+    "links": {
+      "packet": "dispatch",
+      "criterion": "rubric"
+    }
+  }
+}

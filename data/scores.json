@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s1",
+    "packet": "issue-A",
+    "criterion": "t2",
+    "anchor": "A.2",
+    "points": 6,
+    "note": "采样区间有边界。"
+  },
+  {
+    "id": "s2",
+    "packet": "issue-B",
+    "criterion": "t1",
+    "anchor": "B.1",
+    "points": 8,
+    "note": "能说明湿坡限制。"
+  },
+  {
+    "id": "s3",
+    "packet": "issue-A",
+    "criterion": "t3",
+    "anchor": "A.3",
+    "points": 7,
+    "note": "两种间隔有明确使用范围。"
+  }
+]

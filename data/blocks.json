@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p01",
+    "tender": "M26",
+    "bid": "b1",
+    "edition": "1",
+    "anchor": "§2",
+    "kind": "正文",
+    "text": "此前和山地站完成松针支沟复测。本段同样适用于北侧湿坡。",
+    "old": null
+  },
+  {
+    "id": "p02",
+    "tender": "M26",
+    "bid": "b1",
+    "edition": "1",
+    "anchor": "表A",
+    "kind": "说明",
+    "text": "东脊 D-3 的有效范围是 3–12 米。前一节的坡面结论限于表 A 第二列。",
+    "old": null
+  },
+  {
+    "id": "p03",
+    "tender": "M26",
+    "bid": "b1",
+    "edition": "1",
+    "anchor": "§5",
+    "kind": "正文",
+    "text": "该队的常规巡查间隔为两周。仅试用工段可在当班复测。",
+    "old": null
+  },
+  {
+    "id": "p04",
+    "tender": "M26",
+    "bid": "b1",
+    "edition": "2",
+    "anchor": "补1",
+    "kind": "补遗",
+    "text": "补上实施单位资质，执行前文方案的原班组持有斜坡检修乙证。",
+    "old": null
+  },
+  {
+    "id": "p05",
+    "tender": "M26",
+    "bid": "b1",
+    "edition": "2",
+    "anchor": "表A",
+    "kind": "表格",
+    "text": "东脊 D-3 可支持 3–10 米。上一版第二列中的更远测量改用新工装。",
+    "old": "p02"
+  },
+  {
+    "id": "p06",
+    "tender": "M26",
+    "bid": "b2",
+    "edition": "1",
+    "anchor": "§2",
+    "kind": "正文",
+    "text": "湿坡专项使用第二种支撑方式，坡度超过十度需重新评议。",
+    "old": null
+  },
+  {
+    "id": "p07",
+    "tender": "M26",
+    "bid": "b2",
+    "edition": "1",
+    "anchor": "§3",
+    "kind": "说明",
+    "text": "东脊 D-3 量程上限 9 米。外部联络人称本设备与标书单位无关。",
+    "old": null
+  },
+  {
+    "id": "p08",
+    "tender": "M26",
+    "bid": "b3",
+    "edition": "1",
+    "anchor": "题记",
+    "kind": "正文",
+    "text": "本次沿用汀桥队在望石沟的工作记录。详见本页关于装夹边界的说明。",
+    "old": null
+  },
+  {
+    "id": "p09",
+    "tender": "M26",
+    "bid": "b3",
+    "edition": "1",
+    "anchor": "图2说明",
+    "kind": "说明",
+    "text": "旧工装任一侧受压前应留一段干燥空隙。",
+    "old": null
+  }
+]
