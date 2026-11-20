@@ -8,7 +8,7 @@
     },
     "links": {}
   },
-  "rubric": {
+  "review-criteria": {
     "columns": {
       "id": "string",
       "item": "string",
@@ -67,7 +67,7 @@
     },
     "links": {
       "packet": "dispatch",
-      "criterion": "rubric"
+      "criterion": "review-criteria"
     }
   }
 }

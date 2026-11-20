@@ -7,7 +7,7 @@
 全部为 UTF-8 编码的合成业务资料。`data/contract.json` 中的列类型带 `?` 时可以是 JSON null。每组记录的 `id` 在该组中唯一，跨组关系以字段说明和清单的 `links` 为准。文字字段保留来源原句，嵌套对象按表中现有格式记录。
 
 - `data/portraits.json`。秘书保管的虚构投标方公开画像。facts 为当时公开信息的原话。
-- `data/rubric.json`。技术评议依据的正式条目。要求匿名卷能保全影响比较的条件。
+- `data/review-criteria.json`。技术评议依据的正式条目。要求匿名卷能保全影响比较的条件。
 - `data/blocks.json`。编号为原稿标记。text 为正文、表格自然语言转录或签补遗。anchor 同稿内可唯一定位。
 - `data/reviews.json`。秘书有原标注和候选改写，category 为推荐、讨论或批准。raw 对应原稿编号。
 - `data/dispatch.json`。已发的匿名纸面交接，links 将评审页定位到原稿，审阅者只收到匿名材料。
