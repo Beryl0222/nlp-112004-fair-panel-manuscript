@@ -8,6 +8,12 @@
   },
   "scripts": {
     "test": "node --test",
-    "check-data": "node tools/check-data.mjs"
+    "check-data": "node tools/check-data.mjs",
+    "review": "node tools/cli.mjs review",
+    "export": "node tools/cli.mjs export",
+    "addendum": "node tools/cli.mjs addendum",
+    "scores": "node tools/cli.mjs scores",
+    "ranking": "node tools/cli.mjs ranking",
+    "trace": "node tools/cli.mjs trace"
   }
 }
